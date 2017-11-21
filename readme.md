@@ -1,5 +1,9 @@
 # Table Search Sort
-A jquery plugin that allows you to easily add search and sort functionality to html tables.
+A jquery plugin that allows you to easily add search and sort functionality to html tables. It will automatically add search inputs and clickable arrows for sorting columns.
+
+![table view][logo]
+
+[logo]: https://github.com/pitchinnate/tableSortSearch/raw/master/src/example.png "Example table"
 
 ### Installation
 Make sure you include the javascript file.
