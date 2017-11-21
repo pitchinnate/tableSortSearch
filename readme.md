@@ -3,7 +3,7 @@ A jquery plugin that allows you to easily add search and sort functionality to h
 
 ![table view][logo]
 
-[logo]: https://raw.githubusercontent.com/pitchinnate/tableSortSearch/master/example.png "Example table"
+[logo]: https://raw.githubusercontent.com/pitchinnate/tableSortSearch/master/example.jpg "Example table"
 
 ### Installation
 Make sure you include the javascript file.
